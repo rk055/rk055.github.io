@@ -1,22 +1,22 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Machine Learning and Systems Researcher, PhD Candidate
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: redwankhan.png
   image_circular: false # crops the image to make it circular
-  more_info: >
+  address: >
     <p><a href="mailto:redwan@vt.edu"><i class="fas fa-envelope"></i> redwan@vt.edu</a></p>
     <p>PhD Candidate, CS@VT </p>
     <p>ML Systems Researcher</p>
 
-news: true # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+news: true  # includes a list of news items
+latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 I am a PhD Candidate at [CS@VT](https://website.cs.vt.edu/){:target="\_blank"}. My advisor is [Dr. Ali R. Butt](https://people.cs.vt.edu/butta/){:target="\_blank"}. I am affiliated with the Distributed Systems and Storage Lab [(DSSL)](https://dssl.cs.vt.edu/){:target="\_blank"}.
