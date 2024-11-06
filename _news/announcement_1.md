@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-12-10
+date: 2015-10-22 15:59:00-0400
 inline: true
-#related_posts: false
+related_posts: false
 ---
 
-Our paper on building a novel caching system for Deep Learning workloads has been accepted to USENIX FAST 2023.
+A simple inline announcement.
